@@ -27,7 +27,7 @@ print("Hello, Python!")
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
 ```
 ```
-4.要檢查變數資料型別 底下程式需使用哪個函數:
+4.要檢查變數資料型別 底下程式需使用哪個函數:0
 
 #!/usr/bin/python3
 y = 65535
